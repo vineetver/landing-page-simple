@@ -457,8 +457,8 @@ hr {
     }
 }
 
-/* Button */
-/* input[type="submit"],
+/* Button
+ input[type="submit"],
 input[type="reset"],
 input[type="button"],
 button,
@@ -573,10 +573,10 @@ button,
       .button.primary:hover:active {
         background-color: #b71824; }
 
-         */
+ */
 
 
-/* Form
+ /* Form
 form {
   margin: 0 0 2rem 0; }
 
@@ -764,7 +764,8 @@ input[type="radio"]:focus + label:before {
 :-ms-input-placeholder {
   color: #bbbbbb !important; } */
 
- /* List   */
+
+ /* List
 ol {
   list-style: decimal;
   margin: 0 0 2rem 0;
@@ -815,6 +816,8 @@ dl {
 
 ul.alt li {
   border-top-color: rgba(0, 0, 0, 0.25); }
+
+  */
 
 
 
@@ -1374,7 +1377,7 @@ table.alt tbody tr td {
 .testimonials .content p {
     color: #111111;
 }
-/* Actions
+ Actions
 ul.actions {
   display: -moz-flex;
   display: -webkit-flex;
@@ -1456,9 +1459,9 @@ ul.actions {
           ul.actions:not(.fixed) li .button.icon:before {
             margin-left: -0.5rem; } }
 
- */
 
-/* Grid
+
+ /* Grid
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -2144,8 +2147,10 @@ ul.actions {
       .row.gtr-200.gtr-uniform > * {
         padding-top: 2.5rem; } }
 
- */
-/* Icon
+  */
+
+
+ /* Icon
 .icon {
   text-decoration: none;
   border-bottom: none;
@@ -2160,9 +2165,10 @@ ul.actions {
   .icon > .label {
     display: none; }
 
- */
+  */
 
-/* Icons
+
+ /* Icons
 ul.icons {
   cursor: default;
   list-style: none;
@@ -2175,9 +2181,10 @@ ul.icons {
     ul.icons li .icon:before {
       font-size: 2rem; }
 
- */
+  */
 
-/* Image
+
+ /* Image
 .image {
   border-radius: 4px;
   border: 0;
@@ -2211,7 +2218,8 @@ ul.icons {
     .image.main img {
       width: 100%; }
 
- */
+  */
+
 
 /* Wrapper */
 .wrapper {
@@ -2265,8 +2273,8 @@ ul.icons {
     background-size: cover;
     border-top: 0;
     display: -ms-flexbox;
-    height: 35rem !important;
-    min-height: 35rem;
+    height: 692px !important;
+    min-height: 692px;
     overflow: hidden;
     position: relative;
     text-align: center;
