@@ -1,1 +1,1 @@
-Responsive font page mockup 
+Responsive front page mockup 
